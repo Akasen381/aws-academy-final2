@@ -1,5 +1,5 @@
 # aws-academy-final2
-Aquí tienes el `README.md` completo para tu repositorio `aws-academy-final2`, escrito con un tono natural y directo, cubriendo todos los puntos que pide la rúbrica de esta práctica:
+
 
 ```markdown
 # Segmentación de Clientes con K-Means y PCA en AWS EC2
